@@ -41,7 +41,7 @@ function App() {
       <nav className="navbar">
         <div className="nav-logo">
           <div className="nav-logo-dot" />
-          <span className="nav-logo-text">PostForge</span>
+          <span className="nav-logo-text"></span>
         </div>
         <span className="nav-badge">AI · LinkedIn</span>
       </nav>
